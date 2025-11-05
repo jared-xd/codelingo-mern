@@ -1,0 +1,1 @@
+Frontend base del proyecto MERN
